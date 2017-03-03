@@ -3,11 +3,11 @@
 # Site settings
 title: Amora               # used for the html title of every page
 desc: >
-The Autonomous Mobile Robot Algorithms (AMORA) project 
-aims to enable our Pioneer 3 robots to perform simple 
-tasks autonomously. In order to do so, we plan to integrate 
-state-of-the-art algorithms in path planning, navigation, 
-SLAM, object recognition and others within the ROS framework.
+  The Autonomous Mobile Robot Algorithms (AMORA) project 
+  aims to enable our Pioneer 3 robots to perform simple 
+  tasks autonomously. In order to do so, we plan to integrate 
+  state-of-the-art algorithms in path planning, navigation, 
+  SLAM, object recognition and others within the ROS framework.
 
 url: http://jackal.com      # put your website hosting url here
 baseurl: ''                 # the subpath of your site, e.g. /blog
